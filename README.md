@@ -15,15 +15,15 @@
 
 ## 🛠 Tech Stack
 
-Tools & Technologies
+-Tools & Technologies
 
-Languages: Python (Pandas, NumPy), SQL,HTML,CSS,Java,Javascript
+-Languages: Python (Pandas, NumPy), SQL,HTML,CSS,Java,Javascript
 
-Visualization: Tableau, MS Excel
+-Visualization: Tableau, MS Excel
 
-Databases: MySQL
+-Databases: MySQL
 
-Others: Git, VS Code, Jupyter Notebook
+-Others: Git, VS Code, Jupyter Notebook
 
 ---
 
