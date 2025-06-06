@@ -38,10 +38,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DikshitaPatil&show_icons=true&theme=default)
 
 ---
-
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/dikshita-patil-13a414347)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dikshita-patil-13a414347)  
 📧 dikshitapatil2709@gmail.com
 
 ---
