@@ -1,6 +1,6 @@
 # 👋 Hi All! I'm Dikshita Patil
 
-📊 **Aspiring Data Analyst** |  AI & Web Enthusiast | UI/UX 
+📊 **Aspiring Data Analyst** |  AI & Web Enthusiast | UI/UX | Python & Visualization
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Stack
 
--Languages: Python (Pandas, NumPy), SQL,HTML,CSS,Java,Javascript
+-Languages: Python (Pandas, NumPy), SQL,HTML,CSS,Java,Javascript,
 
 -Visualization: Tableau, MS Excel
 
@@ -34,6 +34,7 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dikshita-patil-13a414347)  
+[![Kaggle](https://www.kaggle.com/dikshitavijaypatil)  
 📧 dikshitapatil2709@gmail.com
 
 ---
