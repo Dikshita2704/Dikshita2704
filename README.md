@@ -34,7 +34,7 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dikshita-patil-13a414347)  
-[![Kaggle](https://www.kaggle.com/dikshitavijaypatil)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/dikshitavijaypatil)
 📧 dikshitapatil2709@gmail.com
 
 ---
