@@ -15,8 +15,6 @@
 
 ## 🛠 Tech Stack
 
--Tools & Technologies
-
 -Languages: Python (Pandas, NumPy), SQL,HTML,CSS,Java,Javascript
 
 -Visualization: Tableau, MS Excel
