@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi All! I'm Dikshita Patil
 
-<!--
-**Dikshita2704/Dikshita2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Aspiring Data Analyst** |  AI & Web Enthusiast | UI/UX 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+💼 I'm a data-driven enthusiast with a keen interest in turning numbers into meaningful stories.  
+🔍 Passionate about **Data Analytics**, **Data Visualization**, and solving real-world problems with insights.  
+📊 Skilled in tools like **Python (Pandas, NumPy, Matplotlib)**, **SQL**, and **Power BI** for cleaning, analyzing, and visualizing data.   
+📈 Always curious to learn more about **Machine Learning**, **ETL workflows**, and **business intelligence** tools.
+
+---
+
+## 🛠 Tech Stack
+
+### 📊 Data Analytics & Visualization  
+`Power BI` `Excel` `Tableau` `Matplotlib` `Seaborn`
+
+### 🧠 Machine Learning & Data Science  
+`Scikit-learn` `Jupyter Notebook` `Python`
+
+### 💾 Databases & Cloud  
+`SQL` `BigQuery` `Google Cloud Platform`
+
+### 📚 Version Control & Collaboration  
+`Git` `GitHub`
+
+### 🧰 Design & Prototyping Tools  
+`Figma`
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DikshitaPatil&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DikshitaPatil&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/dikshita-patil-13a414347)  
+📧 dikshitapatil2709@gmail.com
+
+---
+
+🔥 Let's analyze data, uncover insights, and build impactful solutions together!
