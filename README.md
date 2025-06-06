@@ -27,8 +27,14 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DikshitaPatil&theme=default)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DikshitaPatil&show_icons=true&theme=default)
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DikshitaPatil&theme=black-ice" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=DikshitaPatil&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+
+</div>
+
 
 ---
 ## 📫 Connect With Me
