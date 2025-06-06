@@ -15,20 +15,15 @@
 
 ## 🛠 Tech Stack
 
-### 📊 Data Analytics & Visualization  
-`Power BI` `Excel` `Tableau` `Matplotlib` `Seaborn`
+Tools & Technologies
 
-### 🧠 Machine Learning & Data Science  
-`Scikit-learn` `Jupyter Notebook` `Python`
+Languages: Python (Pandas, NumPy), SQL,HTML,CSS,Java,Javascript
 
-### 💾 Databases & Cloud  
-`SQL` `BigQuery` `Google Cloud Platform`
+Visualization: Tableau, MS Excel
 
-### 📚 Version Control & Collaboration  
-`Git` `GitHub`
+Databases: MySQL
 
-### 🧰 Design & Prototyping Tools  
-`Figma`
+Others: Git, VS Code, Jupyter Notebook
 
 ---
 
